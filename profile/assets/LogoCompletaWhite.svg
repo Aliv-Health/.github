@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2193 741" width="2193" height="741">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(384.874,0,0,442.453,433.145,474.92)">
+			<stop offset="0" stop-color="#1e4fea"/>
+			<stop offset="1" stop-color="#3f71fc"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(656.032,0,0,697.689,22.018,378.358)">
+			<stop offset="0" stop-color="#6d97fd"/>
+			<stop offset="1" stop-color="#9abfff"/>
+		</linearGradient>
+		<image width="800" height="360" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjU1IDE4OC41IDk5LjcgNDQiPgo8IS0tIFNWRyBjcmVhdGVkIHdpdGggQXJyb3csIGJ5IFF1aXZlckFJIChodHRwczovL3F1aXZlci5haSkgLS0+CiAgPHBhdGggZD0ibTY2IDIxMC42LTcuNyAxOWg1LjlsMy42LTkuNmgxNy41bDQuMiAxMGg2LjJsLTE1LjctMzkuNWgtNi41bC03LjUgMjAuMXptMy43IDMuNyA2LjktMTcuMyA2LjYgMTcuM2gtMTMuNXoiLz4KICA8cG9seWdvbiBwb2ludHM9Ijk5LjYgMTkwLjQgOTkuNiAyMzAuNiAxMDUuMiAyMzAuNiAxMDUuMyAxOTAuMyIvPgogIDxyZWN0IHg9IjExMS44IiB5PSIyMDMiIHdpZHRoPSI1LjUiIGhlaWdodD0iMjcuNSIvPgogIDxjaXJjbGUgY3g9IjExNC41IiBjeT0iMTkzLjkiIHI9IjMuNCIvPgogIDxwYXRoIGQ9Im0xMjAuOSAyMDMgMTEgMjcuNWg3LjFsMTIuOS0zMGMwLjEtMC4yLTYuNCAxLjgtNi45IDIuNXMtOS42IDIxLjMtOS42IDIxLjNsLTguOC0yMS4yLTUuNy0wLjF6Ii8+CiAgPHBhdGggZD0ibTczLjUgMTkwLjUtMTUuOCA0MC4xaDUuOWwxMi45LTMzLjYgMTMuMSAzMy41aDYuMWwtMTUuNy00MGgtNi41eiIvPgogIDxwYXRoIGQ9Im0xMTMuNSAxOTAuNmgyYzAuOCAwIDIuNCAxLjMgMi40IDIuOXYxLjRjMCAxLjEtMS41IDIuNy0yLjQgMi43aC0xLjhjLTAuOCAwLTIuOS0xLTIuOS0yLjZ2LTEuNWMwLTEuMiAxLjUtMi45IDIuNy0yLjl6Ii8+Cjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #8fb7ff } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<path class="s0" d="m792.74 492.83l-115.55-195.72c-17.34-13.72-34.67-13.72-51.28-13.72-29.61 0-60.67 10.11-93.17 39-31.06 30.33-68.61 80.16-99.67 127.11 20.95 47.66 78 148.78 103.28 189.22 32.5 49.11 71.5 87.39 136.5 87.39 65 0 155.28-45.5 144.45-153.83-2.17-27.45-13-55.62-24.56-79.45z"/>
+	<path class="s1" d="m562.35 102.83c-19.5-28.89-57.78-65.72-106.89-72.95-64.28-10.11-127.11 5.06-171.89 65.73l-10.83 15.89-228.22 382.78c-13 23.83-22.39 53.44-22.39 89.55 2.89 70.78 55.61 131.45 123.5 141.56 66.44 8.66 129.28-10.84 167.55-60.67 7.23-9.39 14.45-20.22 21.67-33.22l97.5-180.56c49.11-74.39 98.22-128.55 137.22-150.22 40.45-21.67 83.06-27.45 107.62-5.78z"/>
+	<path class="s2" d="m433.07 449.5c41.89-70.78 99.35-129.23 135.06-148.06 31.67-16.7 76.55-25.17 110.07-3.08l-113.68-192.64c-13.72-20.95-38.28-48.39-77.28-65-34.67-14.45-86.67-15.89-117.72-5.78-34.67 10.11-62.84 31.06-82.34 57.78-7.94 9.39-16.61 24.55-20.94 32.5l-221.72 367.61c-13 25.28-23.84 54.89-22.39 91 2.89 71.5 52.72 131.45 123.5 140.84 59.22 7.22 111.94-10.12 146.61-43.34 14.44-13.72 26.72-31.05 39.72-52z"/>
+	<use id="vectorized_019f8f8d-4900-7b29-b59b-f999d616ef5b" href="#img1" transform="matrix(1.677,0,0,1.677,870,89)"/>
+</svg>
