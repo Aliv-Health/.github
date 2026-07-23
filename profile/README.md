@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Aliv Saúde" src="./assets/LogoCompletaWhite.svg" width="320">
+<img alt="Aliv Saúde" src="./assets/VetorMutavelBranco2.svg" width="320">
 
 ### Sua clínica, sua agenda e seu prontuário em um só lugar.
 
