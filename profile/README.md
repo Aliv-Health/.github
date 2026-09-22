@@ -6,7 +6,7 @@
 
 Plataforma completa de medicina moderna — **Developers First**.
 
-<img src="./assets/banner.png" alt="Aliv Saúde" width="100%">
+<img src="./assets/bannergit.png" alt="Aliv Saúde" width="100%">
 
 </div>
 
